@@ -7,8 +7,8 @@ Hi :) I'm a computer science student in my third and final year of my degree. I 
   </samp>
 </p>
 
-### Connect with me :smiley:
-
+ Say hi :smiley:
+***
 <a href="https://www.reddit.com/user/Ks3o">
   <img align="left" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
