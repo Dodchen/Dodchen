@@ -3,7 +3,8 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-Hi :) I'm anAutomation and Control Systems Engineer. I love challenges, photography, and long walks with my dog
+Hi :) I'm an Automation and Control Systems Engineer.
+I love challenges, photography, and long walks with my dog.
   </samp>
 </p>
 
