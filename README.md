@@ -3,11 +3,11 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-Hi :) I'm a computer science student in my third and final year of my degree. I love challenges, photography, and long walks with my stunning dog
+Hi :) I'm a computer science student in my third and final year of my degree. I love challenges, photography, and long walks with my dog
   </samp>
 </p>
 
- Say hi :smiley:
+ say hi :smiley:
 ***
 <a href="https://www.reddit.com/user/Ks3o">
   <img align="left" alt="Vedant Jajoo Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
