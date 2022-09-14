@@ -3,7 +3,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-Hi :) I'm a computer science student in my third and final year of my degree. I love challenges, photography, and long walks with my dog
+Hi :) I'm anAutomation and Control Systems Engineer. I love challenges, photography, and long walks with my dog
   </samp>
 </p>
 
